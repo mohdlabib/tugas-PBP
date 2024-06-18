@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coordinator Layout</string>
+    <string name="content_title">Subnautica Review</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad, asperiores aut corporis itaque non quis ratione ut vitae voluptatibus? Beatae culpa ducimus eum quibusdam reprehenderit sequi sit ut velit? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda doloremque, et eveniet facilis illum nisi omnis. Delectus doloremque iste iusto nostrum, odit quidem repellat? Dignissimos laboriosam maxime molestias odit repudiandae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias ducimus eligendi eum explicabo facilis illum molestiae nemo nisi numquam possimus provident quasi saepe sapiente sed sit tempore, voluptatem voluptates, voluptatum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet autem dolorem eos harum maiores modi neque quo quos repellendus voluptas. Alias doloremque dolores dolorum eligendi pariatur tenetur? Fuga nihil, pariatur.</string>
+    <string name="my_date">10/10/2019</string>
+    <string name="image_content_description">No Man Sky</string>
+    <string name="review_icon">Review Icon</string>
+    <string name="button">Button</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="title_activity_custom_list_view">CustomListViewActivity</string>
+</resources>
